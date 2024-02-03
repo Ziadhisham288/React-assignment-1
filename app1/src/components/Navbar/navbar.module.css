@@ -1,0 +1,17 @@
+.bg {
+    background-color: #2C3E50;
+}
+
+.brandStyle {
+    font-size: 2rem;
+    color: white;
+    font-weight: 700;
+}
+
+.linkStyle {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: white;
+    margin: 0 10px;
+}
+

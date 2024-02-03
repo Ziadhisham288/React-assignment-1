@@ -1,0 +1,13 @@
+.bg {
+    background-color: #1ABC9C;
+}
+
+.imageSize {
+    width: 280px;
+    height: 280px;
+}
+
+.fontStyle {
+    font-size: 2.5rem;
+    color: white;
+}
